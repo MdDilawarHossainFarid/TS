@@ -1,2 +1,4 @@
 var myName = "Farid";
-console.log(myName);
+var mycontact = 123456789;
+var mycontactIsActive = true;
+console.log(myName, mycontact, mycontactIsActive);

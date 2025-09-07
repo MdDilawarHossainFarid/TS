@@ -1,3 +1,5 @@
 
 let myName: string = "Farid";
-console.log(myName);
+let mycontact: number = 123456789;
+let mycontactIsActive: boolean = true;
+console.log(myName,mycontact,mycontactIsActive);
